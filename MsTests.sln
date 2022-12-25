@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consolev7", "Consolev7\Consolev7.csproj", "{7BDBA815-3E12-4174-AA3C-4A1A229AAD86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consolev7.Tests", "Consolev7.Tests\Consolev7.Tests.csproj", "{857AFFE0-24AA-4A2E-9BAF-72F92DF3DCA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BDBA815-3E12-4174-AA3C-4A1A229AAD86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BDBA815-3E12-4174-AA3C-4A1A229AAD86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BDBA815-3E12-4174-AA3C-4A1A229AAD86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BDBA815-3E12-4174-AA3C-4A1A229AAD86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{857AFFE0-24AA-4A2E-9BAF-72F92DF3DCA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857AFFE0-24AA-4A2E-9BAF-72F92DF3DCA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857AFFE0-24AA-4A2E-9BAF-72F92DF3DCA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857AFFE0-24AA-4A2E-9BAF-72F92DF3DCA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DA86640-BB76-473B-80B2-C4D9BF8BD3AF}
+	EndGlobalSection
+EndGlobal
